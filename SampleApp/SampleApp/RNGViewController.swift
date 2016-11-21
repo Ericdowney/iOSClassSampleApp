@@ -25,7 +25,6 @@ class RNGViewController: UIViewController {
         return alert
     }()
     
-    
     // MARK: - Actions
     
     @IBAction func dismissKeyboard() {
